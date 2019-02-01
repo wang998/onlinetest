@@ -5,3 +5,4 @@
 - Apply the migrate command to migrate the database.
 - After that create super user for adminstrations.
 - Run the project by using the runserver command.
+https://www.youtube.com/watch?v=kRZD0rMMWyQ&t=181s&ab_channel=NayanPatil
